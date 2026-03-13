@@ -119,7 +119,7 @@ Technical Lead — Python, TensorFlow, Keras
 
 Abhishek Singh  
 B.Tech Computer & Communication Engineering  
-Manipal University Jaipur  
+Manipal University Jaipur
 
 GitHub: https://github.com/AbhishekkASR  
 LinkedIn: https://linkedin.com/in/abhishek-singh-739102253  
